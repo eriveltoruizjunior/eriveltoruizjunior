@@ -1,6 +1,6 @@
 # Hi 👋, I'm Erivelto Domingo Ruiz Junior
 
-🚀 **Planning Analyst | Logistics & Control Tower | Data Analytics | Python | Power BI | AWS**
+🚀 **Análise de Dados | Excel • Python • SQL • AWS • Power BI | Ciência da Computação | Data Analytics**
 
 🇧🇷 Brazil
 
